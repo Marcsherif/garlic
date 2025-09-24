@@ -20,7 +20,7 @@ How to Build && Run
 4. data/output.tga
 
 ## Result
-[output.tga](./data/output.tga)
+[Final Rendered Image](./data/output.png)
 
 ## Learning Resources
 
