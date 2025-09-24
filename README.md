@@ -19,6 +19,9 @@ How to Build && Run
 3. code/run.bat
 4. data/output.tga
 
+## Result
+[output.tga](./data/output.tga)
+
 ## Learning Resources
 
 * [TinyRenderer Tutorial](https://github.com/ssloy/tinyrenderer/wiki): Step-by-step lessons on implementing each component of the renderer.
